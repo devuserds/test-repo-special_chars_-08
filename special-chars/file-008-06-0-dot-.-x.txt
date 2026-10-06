@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 8
+Branch index: 6
+File slot: 0
+Special character: '.' (label: dot)
+Repo: test-repo-special_chars_-08
+Branch: branch-008-06-dot-.-x
+Path: special-chars/file-008-06-0-dot-.-x.txt
