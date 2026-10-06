@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 8
+Branch index: 5
+File slot: 0
+Special character: ',' (label: comma)
+Repo: test-repo-special_chars_-08
+Branch: branch-008-05-comma-,-x
+Path: special-chars/file-008-05-0-comma-,-x.txt
