@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 8
+Branch index: 6
+File slot: 1
+Special character: ';' (label: semi)
+Repo: test-repo-special_chars_-08
+Branch: branch-008-06-dot-.-x
+Path: special-chars/file-008-06-1-semi-;-x.txt
