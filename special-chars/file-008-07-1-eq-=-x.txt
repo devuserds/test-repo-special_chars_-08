@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 8
+Branch index: 7
+File slot: 1
+Special character: '=' (label: eq)
+Repo: test-repo-special_chars_-08
+Branch: branch-008-07-lt-<-x
+Path: special-chars/file-008-07-1-eq-=-x.txt
